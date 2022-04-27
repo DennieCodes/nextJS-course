@@ -13,6 +13,7 @@ function BlogPage() {
         This route uses a spread [...slug] as it's path/filename. router.query
         will give us an array named slug with whatever parameters are passed.
       </p>
+      <p>e.g. slug: (2) ['12', '2022']</p>
     </div>
   );
 }
