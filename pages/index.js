@@ -12,6 +12,9 @@ export default function Home() {
         <li>
           <Link href="/clients">Clients</Link>
         </li>
+        <li>
+          <Link href="/static">Next Static Example</Link>
+        </li>
       </ul>
     </div>
   );
